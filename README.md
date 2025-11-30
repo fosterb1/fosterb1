@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/fosterboadi152" target="blank"><img src="https://img.shields.io/twitter/follow/fosterboadi152?logo=twitter&style=for-the-badge" alt="fosterboadi152" /></a> </p>
 
-- 🔭 I’m currently working on **Middle-Man**
+- 🔭 I’m currently working on **MedioMan**
 
 - 🌱 I’m currently learning **PHP,JAVA,REACT**
 
