@@ -1,71 +1,73 @@
 # Foster Boadi
 
-Software Developer | Full-Stack & Systems-Oriented  
-Ghana 🇬🇭 | Open to Remote & Global Opportunities
+**Software Developer | Full-Stack | Systems-Focused**  
+Ghana 🇬🇭 · Open to Remote Opportunities
 
 ---
 
-I’m a software developer focused on building **practical, maintainable applications**.
-I work across frontend, backend, and cloud—shipping real projects, not just experiments.
+I’m a software developer focused on building **practical, maintainable applications** that solve real problems.
 
-I value clarity, reliability, and learning through execution.
+I care about understanding the problem first, designing clean solutions, and shipping software that holds up in real-world use.  
+No hype. No shortcuts. Just steady execution and continuous improvement.
 
 ---
 
 ## What I Do
-- Build full-stack web applications
-- Design APIs and backend systems
-- Translate product ideas into working software
-- Improve existing codebases through refactoring and structure
+- Build and maintain full-stack web applications
+- Design and implement RESTful APIs
+- Work with relational and non-relational databases
+- Integrate cloud services into applications
+- Improve existing systems through refactoring and structure
+- Learn by building, testing, and iterating
 
 ---
 
-## Current Work
-- **MedioMan** — an application under active development
-- Rebuilding and modernizing existing projects
-- Strengthening core skills in **React, Java, and PHP**
+## Current Focus
+- 🔭 Building **MedioMan** (active development)
+- 🌱 Deepening my skills in **React, Java, and PHP**
+- 🧠 Strengthening fundamentals in system design and architecture
 
 ---
 
 ## Technical Skills
 
 ### Languages
-Java • JavaScript • Python • PHP • SQL • C++
+Java · JavaScript · Python · PHP · SQL · C++
 
 ### Frameworks & Libraries
-React • React Native • Django • Node.js • Angular
+React · React Native · Django · Node.js · Angular
 
 ### Databases & Cloud
-MongoDB • MySQL • SQLite  
-AWS • Google Cloud • Firebase
+MongoDB · MySQL · SQLite  
+AWS · Google Cloud · Firebase
 
-### Tools
-Git • Figma • REST APIs • Linux-based workflows
+### Tools & Workflow
+Git · Figma · REST APIs · Linux-based development  
+Clear documentation and version control are part of my standard workflow.
 
 ---
 
 ## How I Work
 - I write readable, maintainable code
-- I prefer simple architectures that scale
-- I test ideas by building them
-- I document and improve as projects evolve
-
-I’m comfortable working independently or as part of a team.
+- I favor simple, scalable architectures
+- I document decisions and trade-offs
+- I take ownership of features from idea to delivery
+- I work effectively both independently and in teams
 
 ---
 
-## Selected Work
-All projects, source code, and progress are public:
+## Projects & Code
+All my work is public and actively maintained:
 
 🔗 **GitHub:**  
 https://github.com/fosterb1
 
-(Each repository includes documentation and setup instructions.)
+Each repository includes clear goals, setup instructions, and documented progress.
 
 ---
 
 ## Writing & Professional Presence
-I share technical insights and project reflections on:
+I share what I’m learning and building on:
 - **LinkedIn:** https://www.linkedin.com/in/fosterboadi/
 - **Dev.to:** https://dev.to/fosterb1
 - **Medium:** https://medium.com/@fosterboadi152
@@ -75,5 +77,5 @@ I share technical insights and project reflections on:
 ## Contact
 📧 **Email:** fosterboadi152@gmail.com  
 
-If you’re hiring a developer who values fundamentals and follow-through,  
-I’m open to conversations.
+If you’re looking for a developer who values fundamentals, accountability,  
+and steady growth, I’m open to opportunities.
